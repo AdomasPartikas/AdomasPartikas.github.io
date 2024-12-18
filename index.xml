@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 18 Dec 2024 23:20:16 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 23:49:10 +0200</lastBuildDate>
     <atom:link href="https://AdomasPartikas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naujas Postas</title>
+      <link>https://AdomasPartikas.github.io/posts/new-post/</link>
+      <pubDate>Wed, 18 Dec 2024 23:49:10 +0200</pubDate>
+      <guid>https://AdomasPartikas.github.io/posts/new-post/</guid>
+      <description>&lt;p&gt;Mano naujasis postas kuriame yra nuotrauka ir kodo blokas!!!!!&lt;/p&gt;&#xA;&lt;h3 id=&#34;image&#34;&gt;Image&lt;/h3&gt;&#xA;&lt;p&gt;Nuotraukele:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://AdomasPartikas.github.io/images/hackerman.png&#34; alt=&#34;Hackerman&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;###Code Block&#xA;Kodas:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Pirmasis Puslapis</title>
       <link>https://AdomasPartikas.github.io/posts/pirmasis-puslapis/</link>
